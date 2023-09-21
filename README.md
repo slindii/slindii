@@ -1,5 +1,5 @@
-Hi My name is Silindile,
-Welcome to my Github profile!
+<h1>Hi My name is Silindile,
+Welcome to my Github profile!</h1>
 	
 As an enthusiast in the fascinating realm of cybersecurity, I am on a constant journey to enhance my skills and knowledge in securing digital spaces. Here, you will find my projects, research, and contributions in the world of cybersecurity.
 
