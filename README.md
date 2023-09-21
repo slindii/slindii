@@ -3,13 +3,13 @@ Welcome to my Github profile!
 	
 As an enthusiast in the fascinating realm of cybersecurity, I am on a constant journey to enhance my skills and knowledge in securing digital spaces. Here, you will find my projects, research, and contributions in the world of cybersecurity.
 
-	<br>Feel free to explore my repositories, where I strive to showcase my expertise in areas such as ethical hacking, penetration testing, malware analysis, cryptography, and network security. I am passionate about sharing my insights and collaborating with others to strengthen our collective defense against cyber threats.</br>
+Feel free to explore my repositories, where I strive to showcase my expertise in areas such as ethical hacking, penetration testing, malware analysis, cryptography, and network security. I am passionate about sharing my insights and collaborating with others to strengthen our collective defense against cyber threats.
 
-	<br>Join me in creating a safe and secure digital world. Let's connect, learn, and innovate together. Don't hesitate to reach out if you have any questions or potential collaborations. Together, we can make a difference in the cybersecurity landscape!</br>
+Join me in creating a safe and secure digital world. Let's connect, learn, and innovate together. Don't hesitate to reach out if you have any questions or potential collaborations. Together, we can make a difference in the cybersecurity landscape!
 
-	<br>Stay safe and ever curious.</br>
+Stay safe and ever curious.
 
-	<br>Silindile Ndlovu.
+Silindile Ndlovu.
 	
 
 <h2>I'm currently Learning:</h2>
