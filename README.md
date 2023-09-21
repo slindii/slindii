@@ -18,14 +18,15 @@
 	
 <h2>My certifications:</h2>
 
-	NSE 1</br>
-	NSE 2</br>
+	NSE 1
+	NSE 2
 	Ethics training
 
 <h2>Connect with me:</h2>
 
 
 Linkedin: <a href="https://www.linkedin.com/in/silindile-ndlovu/">click here</a>
+
 
 <!--
 **slindii/slindii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
