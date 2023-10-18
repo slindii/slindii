@@ -21,7 +21,7 @@ Silindile Ndlovu.
 
 	NSE 1
 	NSE 2
-	Ethics training
+	National D. I.T Communication networks
 
 <h2>Connect with me:</h2>
 
