@@ -19,9 +19,13 @@ Silindile Ndlovu.
 	
 <h2>My certifications:</h2>
 
-	NSE 1
-	NSE 2
+	Fortinet NSE 1
+	Fortinet NSE 2
 	National D. I.T Communication networks
+        Customer service skill
+	Business etiquette & professionalism.
+    
+ 
 
 <h2>Connect with me:</h2>
 
