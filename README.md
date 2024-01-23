@@ -14,7 +14,7 @@ Silindile Ndlovu.
 
 <h2>I'm currently Learning:</h2>
 
-	Microsoft Azure fundamentals 
+	AZ-900 Microsoft azure fundamentals
 	
 	
 <h2>My certifications:</h2>
