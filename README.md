@@ -1,11 +1,14 @@
 <h1>Hi My name is Silindile,
 Welcome to my Github profile!</h1>
 	
-As an enthusiast in the fascinating realm of cybersecurity, I am on a constant journey to enhance my skills and knowledge in securing digital spaces. Here, you will find my projects, research, and contributions in the world of cybersecurity.
+1st line support, I resolve technical issues and queries or escalate the problem to other support technicians.
 
-Feel free to explore my repositories, where I strive to showcase my expertise in areas such as ethical hacking, penetration testing, malware analysis, cryptography, and network security. I am passionate about sharing my insights and collaborating with others to strengthen our collective defense against cyber threats.
+Ability to solve problems within a technical environment. Strong communication skills. Strong customer service approach and team player. Strong work ethic and ability to work in dynamic work environment.
 
-Join me in creating a safe and secure digital world. Let's connect, learn, and innovate together. Don't hesitate to reach out if you have any questions or potential collaborations. Together, we can make a difference in the cybersecurity landscape!
+I graduated with a national diploma in IT from Tshwane University of Technology where I was specialising in communication networks.
+
+Please do reach out for offers and/ or possible collaborations.
+I am interested and willing to dive into cloud or network security from here. 
 
 Stay safe and ever curious.
 
@@ -22,8 +25,7 @@ Silindile Ndlovu.
 	Fortinet NSE 1
 	Fortinet NSE 2
 	National D. I.T Communication networks
-        Customer service skill
-	Business etiquette & professionalism.
+      
     
  
 
