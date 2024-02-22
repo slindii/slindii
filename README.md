@@ -8,9 +8,9 @@ Ability to solve problems within a technical environment. Strong communication s
 I graduated with a national diploma in IT from Tshwane University of Technology where I was specialising in communication networks.
 
 Please do reach out for offers and/ or possible collaborations.
-I am interested and willing to dive into cloud or network security from here. 
+I am interested and currently studying other aspects of networking and security as it is what I want to dive into in the near future. 
 
-Stay safe and ever curious.
+Stay safe and happy learning.
 
 Silindile Ndlovu.
 	
