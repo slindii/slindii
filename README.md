@@ -1,7 +1,7 @@
 <h1>Hi My name is Silindile,
 Welcome to my Github profile!</h1>
 	
-1st line support, I resolve technical issues and queries or escalate the problem to other support technicians.
+I am a 1st line support, I resolve technical issues and queries or escalate the problem to other support technicians.
 
 Ability to solve problems within a technical environment. Strong communication skills. Strong customer service approach and team player. Strong work ethic and ability to work in dynamic work environment.
 
