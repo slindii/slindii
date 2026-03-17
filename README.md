@@ -29,7 +29,7 @@ I’m passionate about cybersecurity and eager to expand my knowledge. This spac
 <h2>Actively working on:</h2>
 
 - **MWR Virtual Internship**  
-  Focused on security operations, incident response, and practical lab work.  
+  Focused on security operations, incident response, ethical hacking and practical lab work.  
   Currently applying and expanding my knowledge in SOC workflows and threat detection.
 
 	
