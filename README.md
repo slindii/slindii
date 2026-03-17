@@ -9,7 +9,7 @@ I’m passionate about cybersecurity and eager to expand my knowledge. This spac
 
 | Skill                | Associated Project(s)                                                                 |
 |-----------------------|---------------------------------------------------------------------------------------|
-| Networking (Cisco packet tracer)       | Link underway                     |
+| Cisco-Networking-Practical       | Link underway                     |
 |Active Directory (AD) | <a href="https://github.com/slindii/Active-Directory/blob/main/README.md">AD Lab</a> |
 | |
 
