@@ -44,7 +44,7 @@ I’m passionate about cybersecurity and eager to expand my knowledge. This spac
 </div>
 
 ## Cybersecurity Practice
-You can view my progress and labs on [TryHackMe](https://tryhackme.com/dashboard)
+You can view my progress and labs on [TryHackMe](https://tryhackme.com/p/slindindlovu25)
 
 
     
